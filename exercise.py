@@ -1,0 +1,7 @@
+ime = input('Name:')
+familia = input('Family Name:')
+godini = int(input('Age:'))
+grad = input('City/Village:')
+gender = input('Sex:')
+soulmate = input('Dreamy Partner:')
+print('You are {0} {1}, a {2}-years old {3} person from {4} for {5}'.format(ime, familia, godini,gender, grad,soulmate))
